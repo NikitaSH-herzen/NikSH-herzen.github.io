@@ -21,8 +21,9 @@ print('Сумма данных чисел =', sum(lst1))
 
 #### 1) [Лабораторная 1 по JS](Screenshot_1.png)
 #### 2) [Лабораторная XMl и DTD](https://github.com/NikitaSH-herzen/labXML)
-#### 3) [Лабоаторная неделя 6](BugDRg9KKkE.jpg)
-	
+#### 3) [Лабораторная неделя 6](BugDRg9KKkE.jpg)
+#### 4) [Лабораторная IIFE](https://kodaktor.ru/3285821_f0181)
+#### 5) [Лабораторная RGB](RGB.js)	
 ## Здесь находятся лабораторные по ПРОГ:
 
 #### 1) [Лабораторная 1](Lab1.py)
