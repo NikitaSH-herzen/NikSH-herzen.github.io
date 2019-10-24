@@ -5,7 +5,7 @@
 #### [Github Pages](https://github.com)
 ### My id
 [Vkontakte](https://vk.com/kiwunaka)
-### <img src="https://github.com/NikitaSH999/webportfolio/blob/master/Pages/калик.jpg" width="500" height="600" />
+### <img src="webportfolio/bPages/калик.jpg" width="500" height="600" />
 
 ## Решение Задачи на Питоне
 ```python
