@@ -5,7 +5,7 @@
 #### [Github Pages](https://github.com)
 ### My id
 [Vkontakte](https://vk.com/kiwunaka)
-### <img src="калик.jpg" width="500" height="600" />
+### <img src="https://github.com/NikitaSH999/webportfolio/blob/master/Pages/калик.jpg" width="500" height="600" />
 
 ## Решение Задачи на Питоне
 ```python
@@ -19,14 +19,15 @@ print('Сумма данных чисел =', sum(lst1))
 ```
 ## Здесь находятся лабораторные по вебу:
 
-#### 1) [Лабораторная 1 по JS](Screenshot_1.png)
+#### 1) [Лабораторная 1 по JS](https://github.com/NikitaSH999/webportfolio/blob/master/Web/Screenshot_1.png)
 #### 2) [Лабораторная XMl и DTD](https://github.com/NikitaSH-herzen/labXML)
-#### 3) [Лабораторная неделя 6](BugDRg9KKkE.jpg)
+#### 3) [Лабораторная неделя 6](https://github.com/NikitaSH999/webportfolio/blob/master/Web/BugDRg9KKkE.jpg)
 #### 4) [Лабораторная IIFE](https://kodaktor.ru/3285821_f0181)
-#### 5) [Лабораторная RGB](RGB.js)	
+#### 5) [Лабораторная RGB](https://github.com/NikitaSH999/webportfolio/blob/master/Web/RGB.js)
+
 ## Здесь находятся лабораторные по ПРОГ:
 
-#### 1) [Лабораторная 1](Lab1.py)
+#### 1) [Лабораторная 1](https://github.com/NikitaSH999/webportfolio/blob/master/Python/Lab1.py)
 #### 2) [Лабораторная 2](https://repl.it/@NikitaShimko/LR-2)
 #### 3) [Лабораторная 3](https://repl.it/@NikitaShimko/sss)
 #### 4) [Лабораторная Герон](https://github.com/NikitaSH999/ProgLabGeron)
