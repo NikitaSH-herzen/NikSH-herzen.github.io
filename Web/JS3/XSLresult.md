@@ -1,4 +1,4 @@
-Справка и задание: [https://moodle.herzen.spb.ru/pluginfile.php/186771/mod_label/intro/xsl_lab.pdf](https://moodle.herzen.spb.ru/pluginfile.php/186771/mod_label/intro/xsl_lab.pdf)
+
 
 XSL Transformer: [https://www.freeformatter.com/xsl-transformer.html#ad-output](https://www.freeformatter.com/xsl-transformer.html#ad-output)
 
