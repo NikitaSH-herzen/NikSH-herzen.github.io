@@ -6,6 +6,6 @@
 
 # Решения
 
-1. [Каррирование](https://kodaktor.ru/?!=e7eac7c)
+1. [Каррирование](https://kodaktor.ru/?!=e7eac7c_a95fc)
 
-1. [Функции](https://kodaktor.ru/?!=e7eac7c_63c1d)
+1. [Функции](https://kodaktor.ru/?!=e7eac7c_ac098)
