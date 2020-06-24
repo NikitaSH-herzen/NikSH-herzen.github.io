@@ -1,4 +1,4 @@
-# Ссылка на задание: [XSD-2018.pdf](https://moodle.herzen.spb.ru/pluginfile.php/185510/mod_label/intro/XSD-2018.pdf)
+
 
 ### Результат выполненения упражнения 1:
 
@@ -12,12 +12,12 @@
 
 [Схема в кодакторе](https://kodaktor.ru/x/unsafe_e0c29)
 
-[Страница - файл в репозитории](/JS2/xml.xml)
+[Страница - файл в репозитории](https://github.com/NikitaSH999/webportfolio/blob/master/Web/JS2/xml.xml)
 
-[Схема - файл в репозитории](/JS2/xsd.xml)
+[Схема - файл в репозитории](https://github.com/NikitaSH999/webportfolio/blob/master/Web/JS2/xsd.xml)
 
 ### Скриншот валидации с сайта: 
 
 [https://webmaster.yandex.ru/tools/xml-validator/](https://webmaster.yandex.ru/tools/xml-validator/)
 
-![Изображение не отображено, смотрите через github](/JS2/imgxml1.png "Результат")
+![Изображение не отображено, смотрите через github](https://github.com/NikitaSH999/webportfolio/blob/master/Web/JS2/imgxml1.png "Результат")
