@@ -17,13 +17,28 @@ lst1 = lst[::2]
 print(lst1)
 print('Сумма данных чисел =', sum(lst1))
 ```
-## Здесь находятся лабораторные по вебу:
+## Здесь находятся лабораторные по вебу из moodle:
 
-#### 1) [Лабораторная 1 по JS](https://github.com/NikitaSH999/webportfolio/blob/master/Web/Screenshot_1.png)
-#### 2) [Лабораторная XMl и DTD](https://github.com/NikitaSH-herzen/labXML)
-#### 3) [Лабораторная неделя 6](https://github.com/NikitaSH999/webportfolio/blob/master/Web/BugDRg9KKkE.jpg)
-#### 4) [Лабораторная IIFE](https://kodaktor.ru/3285821_f0181)
-#### 5) [Лабораторная RGB](https://github.com/NikitaSH999/webportfolio/blob/master/Web/RGB.js)
+#### 1) [Неделя 1](https://github.com/NikitaSH999/webportfolio/blob/master/Web/Screenshot_1.png)
+#### 2) [Неделя 2](https://github.com/NikitaSH-herzen/labXML)
+#### 3) [Неделя 3](https://github.com/NikitaSH999/webportfolio/blob/master/Web/RGB.js)
+#### 4) [Неделя 4](https://kodaktor.ru/3285821_f0181)
+#### 5) [Неделя 5]()
+#### 6) [Неделя 6]()
+#### 7) [Неделя 7]()
+#### 8) [Неделя 8]()
+#### 9) [Неделя 9]()
+#### 10) [Неделя 10]()
+#### 11) [Неделя 11]()
+#### 12) [Неделя 12]()
+
+## Здесь находятся самостоятельные по вебу:
+#### 1) [Тема 1](https://github.com/NikitaSH999/webportfolio/blob/master/Web/Screenshot_1.png)
+#### 2) [Тема 2](https://github.com/NikitaSH-herzen/labXML)
+#### 3) [Тема 3](https://github.com/NikitaSH999/webportfolio/blob/master/Web/RGB.js)
+#### 4) [Тема 4](https://kodaktor.ru/3285821_f0181)
+#### 5) [Задания ИСР и ВСР]()
+
 
 ## Здесь находятся лабораторные по ПРОГ:
 
@@ -33,3 +48,4 @@ print('Сумма данных чисел =', sum(lst1))
 #### 4) [Лабораторная Герон](https://github.com/NikitaSH999/ProgLabGeron)
 #### 5) [Лабораторная Герон Фукц](https://github.com/NikitaSH999/ProgLabGeronFunc)
 #### 6) [Лабораторная Герон Тест](https://github.com/NikitaSH999/ProgLabGeronTests/blob/master/prolabwithtests.py)
+7
