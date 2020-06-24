@@ -1,15 +1,15 @@
 1. Установка diff2html-cli
 
-![Просмотр доступен только через github](/JS4/img241.png)
+![](https://github.com/NikitaSH999/webportfolio/blob/master/Web/JS4/img241.png)
 
 2. Просмотр установленных пакетов
 
-![Просмотр доступен только через github](/JS4/img242.png)
+![](https://github.com/NikitaPO/NikitaPLabs/blob/master/JS4/img242.png)
 
 3. Файл package.json
 
-![Просмотр доступен только через github](/JS4/imgP.png)
+![](https://github.com/NikitaSH999/webportfolio/blob/master/Web/JS4/imgP.png)
 
 4. Созданный diff.html
 
-![Просмотр доступен только через github](/JS4/img243.png)
+![](https://github.com/NikitaSH999/webportfolio/blob/master/Web/JS4/img243.png)
