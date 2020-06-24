@@ -12,10 +12,10 @@
 
 ## Задание 1
 
-Ссылка на решение первого задания (введение): [https://kodaktor.ru/?!=task_9f27b](https://kodaktor.ru/?!=task_9f27b)
+Ссылка на решение первого задания (введение): [https://kodaktor.ru/?!=task_9f27b](https://kodaktor.ru/?!=task_6e5e8)
 
 ## Задание 2
 
-1. Решение [https://kodaktor.ru/?!=task_func_9d99c](https://kodaktor.ru/?!=task_func_9d99c)
+1. Решение [https://kodaktor.ru/?!=task_func_9d99c](https://kodaktor.ru/?!=task_func_a52f8)
 
-2. Решение [https://kodaktor.ru/?!=03112018_2b7b1](https://kodaktor.ru/?!=03112018_2b7b1)
+2. Решение [https://kodaktor.ru/?!=03112018_2b7b1](https://kodaktor.ru/?!=03112018_2fef3)
