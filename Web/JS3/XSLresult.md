@@ -21,7 +21,7 @@ XSL Transformer: [https://www.freeformatter.com/xsl-transformer.html#ad-output](
 
 Ссылка на XML документ: [https://kodaktor.ru/?!=e88ab99](https://kodaktor.ru/?!=e88ab99)
 
-![Результат 1](https://github.com/NikitaSH999/webportfolio/blob/master/Web/JS3/img123.png.png "Результат 1")
+![Результат 1](https://github.com/NikitaSH999/webportfolio/blob/master/Web/JS3/img123.png "Результат 1")
 
 ## Дополнительное задание по XSL и MathJax
 
