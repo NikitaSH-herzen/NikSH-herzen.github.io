@@ -38,7 +38,7 @@ print('Сумма данных чисел =', sum(lst1))
 #### [Работа со статическими файлами(Неделя 16)](https://github.com/NikitaSH999/webportfolio/blob/master/Web/JS16/result.md)
 ### Семестр 4 
 #### [Мини-интернет магазин](https://github.com/NikitaSH999/webportfolio/blob/master/Web/interfaces/lab2/result.md)
-#### [Интеренет магазин + Drag and Drop](https://kodaktor.ru/?!=custom_8e84a)
+#### [Интеренет магазин + Drag and Drop](https://kodaktor.ru/?!=custom_3a16a)
 #### [Canvas](https://kodaktor.ru/?!=canvas_ca075)
 #### [Pointer](https://kodaktor.ru/?!=_27abb)
 
