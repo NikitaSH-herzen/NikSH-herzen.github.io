@@ -30,12 +30,12 @@ print('Сумма данных чисел =', sum(lst1))
 #### [Объекты и Fetch (Неделя 8)](https://github.com/NikitaSH999/webportfolio/blob/master/Web/JS8.md)
 #### [Fetch и деструктуризация (Неделя 9)](https://github.com/NikitaSH999/webportfolio/blob/master/Web/JS9/result.md)
 #### [Промисы и async/await (Неделя 10)](https://github.com/NikitaSH999/webportfolio/blob/master/Web/JS10/result.md)
-#### [Введение в DOM (Неделя 11)]()
-#### [Cобытия и iRemove (Неделя 12)]()
-#### [Объекты и Прототипы (Неделя 13)]()
-#### [Веб-сервер на модуле http (Неделя 14)]()
-#### [middleware и серверная шаблонизация (Неделя 15)]()
-#### [Работа со статическими файлами(Неделя 16)]()
+#### [Введение в DOM (Неделя 11)](https://github.com/NikitaSH999/webportfolio/blob/master/Web/JS11/result.md)
+#### [Cобытия и iRemove (Неделя 12)](https://github.com/NikitaSH999/webportfolio/blob/master/Web/JS12/result.md)
+#### [Объекты и Прототипы (Неделя 13)](https://github.com/NikitaSH999/webportfolio/blob/master/Web/JS13/result.md)
+#### [Веб-сервер на модуле http (Неделя 14)](https://github.com/NikitaSH999/webportfolio/blob/master/Web/JS14/result.md)
+#### [middleware и серверная шаблонизация (Неделя 15)](https://github.com/NikitaSH999/webportfolio/blob/master/Web/JS15/result.md)
+#### [Работа со статическими файлами(Неделя 16)](https://github.com/NikitaSH999/webportfolio/blob/master/Web/JS16/result.md)
 
 
 ## Здесь находятся лабораторные по ПРОГ:
