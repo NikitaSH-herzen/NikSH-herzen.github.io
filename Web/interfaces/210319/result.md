@@ -1,4 +1,4 @@
 # Решение
 
-[https://kodaktor.ru/?!=71fce0f](https://kodaktor.ru/?!=71fce0f)
+[https://kodaktor.ru/?!=_27abb](https://kodaktor.ru/?!=_27abb)
 
