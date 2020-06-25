@@ -8,4 +8,4 @@
 
 # Решение
 
-[https://kodaktor.ru/?!=custom_b678f](https://kodaktor.ru/?!=custom_b678f)
+[https://kodaktor.ru/?!=custom_49c3c](https://kodaktor.ru/?!=custom_49c3c)
