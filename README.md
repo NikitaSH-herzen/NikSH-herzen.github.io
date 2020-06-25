@@ -36,6 +36,11 @@ print('Сумма данных чисел =', sum(lst1))
 #### [Веб-сервер на модуле http (Неделя 14)](https://github.com/NikitaSH999/webportfolio/blob/master/Web/JS14/result.md)
 #### [middleware и серверная шаблонизация (Неделя 15)](https://github.com/NikitaSH999/webportfolio/blob/master/Web/JS15/result.md)
 #### [Работа со статическими файлами(Неделя 16)](https://github.com/NikitaSH999/webportfolio/blob/master/Web/JS16/result.md)
+### Семестр 4 
+#### [Мини-интернет магазин](https://github.com/NikitaSH999/webportfolio/blob/master/Web/interfaces/lab2/result.md)
+#### [Интеренет магазин + Drag and Drop](https://kodaktor.ru/?!=custom_8e84a)
+#### [Canvas](https://kodaktor.ru/?!=canvas_ca075)
+#### [Pointer](https://kodaktor.ru/?!=_27abb)
 
 
 ## Здесь находятся лабораторные по ПРОГ:
