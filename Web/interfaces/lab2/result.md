@@ -9,4 +9,3 @@
 # Решение
 
 [https://kodaktor.ru/?!=custom_b678f](https://kodaktor.ru/?!=custom_b678f)
-![](http://prntscr.com/t6ar31)
